@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftbasearchitecture",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Drelandra/SwiftBaseArchitecture",
+      "state" : {
+        "branch" : "master",
+        "revision" : "1036aaff4e112200e03242d8e1dbb61b7a2712f3"
+      }
+    }
+  ],
+  "version" : 2
+}

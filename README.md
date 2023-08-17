@@ -1,2 +1,2 @@
 # SwiftBaseArchitectureExample
-Providing examples for the implementation of SwiftBaseArchitecture
+An example project for implementation of SwiftBaseArchitecture.
